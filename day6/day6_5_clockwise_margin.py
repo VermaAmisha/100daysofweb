@@ -19,9 +19,9 @@
   .red-box {
     background-color: crimson;
     color: #fff;
-    margin-top: 40px;
-    margin-right: 20px;
-    margin-bottom: 20px;
+    margin-top: 50px;
+    margin-right: 30px;
+    margin-bottom: 30px;
     margin-left: 40px;
   }
 
